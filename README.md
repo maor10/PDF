@@ -9,10 +9,12 @@ We need donations to continue making APIs, so please donate!!
 Thank you!
 
 How to Create a PDF
-First, before anything else, make sure you have added the two PDF files to your project, Next, import PDF.h in whichever file you want to create the PDF.
+===
+First, before anything else, make sure you have added the two PDF files to your project.
+Next, import PDF.h in whichever file you want to create the PDF. (#import "PDF.h")
 
 To create a PDF :
-
+==
 PDF *pdf = [[PDF alloc]init]; [pdf initContent]; Note: You MUST do both of these to create a PDF
 
 Set the size of the PDF to whatever you want:
