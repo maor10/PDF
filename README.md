@@ -1,6 +1,7 @@
 PDF
 ===
 Introduction
+===
 This PDF API will allow you to create a PDF object, add images and text easily, and then create the PDF file, or attach it in an email.
 
 We need donations to continue making APIs, so please donate!!
